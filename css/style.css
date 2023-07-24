@@ -13,6 +13,9 @@ body{
     box-shadow: 10px 5px 5px red;
     font-size: 18px;
 }
+.navItems:hover{
+    transform: scale(1.5);
+}
 
 /* the titles font is set to monospace */
 .title{
