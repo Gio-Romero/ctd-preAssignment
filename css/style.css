@@ -14,7 +14,7 @@ body{
     font-size: 18px;
 }
 .navItems:hover{
-    transform: scale(1.5);
+    transform: scale(1.5); 
 }
 
 /* the titles font is set to monospace */
