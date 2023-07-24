@@ -11,6 +11,7 @@ body{
     border: 2px solid firebrick;
     padding: 7px;
     box-shadow: 10px 5px 5px red;
+    font-size: 18px;
 }
 
 /* the titles font is set to monospace */
