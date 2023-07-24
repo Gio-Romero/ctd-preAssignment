@@ -1,0 +1,22 @@
+/* styles bg black and text white */
+body{
+    background-color: black;
+    color: white;
+}
+
+/* nav links are styled */
+.navItems{
+    color: crimson;
+    font-family: fantasy;
+    border: 2px solid firebrick;
+    padding: 7px;
+    box-shadow: 10px 5px 5px red;
+}
+
+/* the titles font is set to monospace */
+.title{
+    font-family: monospace;
+}
+.cursorChange{
+    cursor: progress;
+}
